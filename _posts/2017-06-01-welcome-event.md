@@ -1,6 +1,6 @@
 ---
 title: Introductory Hacky Hour
-text: Interested in programming? What to learn more about GitHub? Would you like to share your work online? Join us for our [first event.](https://github.com/openhhucoders/studyGroup/issues/)
+text: Interested in programming? What to learn more about GitHub? Would you like to share your work online? Join us for our first event.
 location: Düsseldorf, Germany
 link: https://github.com/openhhucoders/studyGroup/issues/
 date: 2017-06-01
