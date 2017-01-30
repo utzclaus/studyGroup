@@ -299,7 +299,7 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 22px;
 }
 
@@ -322,7 +322,7 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
-        font-style: italic;
+        /*font-style: italic;*/
         line-height: 40px;
     }
 
@@ -351,7 +351,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    /*font-style: italic;*/
     font-weight: 400;
 }
 
@@ -431,7 +431,7 @@ section h3.section-subheading {
     margin: 0;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 #portfolio * {
@@ -809,7 +809,7 @@ ul.social-buttons li a:active {
     margin: 20px 0 30px;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 .portfolio-modal .modal-content ul.list-inline {
