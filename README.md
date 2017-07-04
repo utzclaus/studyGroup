@@ -1,4 +1,4 @@
-#Mozilla Study Groups
+# Mozilla Study Groups
 
 Welcome to [Open HHU Coders](https://openhhucoders.github.io/studyGroup/)'s Study Group project! This group is designed to bring everyone in the HHU community interested in improving their coding skills, enhancing their data analysis abilities, building new skills, and working in a collaborative environment together. We are a community-led group that's open to new ideas and here to work with you.
 
