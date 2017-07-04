@@ -2,7 +2,7 @@
 title: Introduction to Version Control with git
 text: In our first meeting we will learn about version control, git, and GitHub. Feel free to join us.
 location: Düsseldorf, Germany
-link: https://github.com/openhhucoders/studyGroup/issues/
+link: https://github.com/openhhucoders/studyGroup/issues/18
 date: 2017-07-05
 startTime: '18:00'
 endTime: '20:00'
